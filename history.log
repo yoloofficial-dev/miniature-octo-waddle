@@ -1,3 +1,4 @@
 # Node status change history
 # Format: [YYYY-MM-DD HH:MM:SS UTC] <node_name>: <from> -> <to>
 # This file is appended to automatically by check-status.js via GitHub Actions.
+[2026-07-21 12:48:23 UTC] castor.mcserverhost.com: online -> offline
